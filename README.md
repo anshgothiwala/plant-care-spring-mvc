@@ -11,3 +11,5 @@ Spring MVC based web application for plant care services.
 
 ## Author
 Ansh Gothiwala
+
+_Last updated: January 2026_
